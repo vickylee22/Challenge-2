@@ -1,0 +1,50 @@
+    4  conda activate dev
+    5  cd C:\Users\vicky\OneDrive\Documents\SMU Fintech
+    6  ls
+    7  cd ONE
+    8  cd OneDrive
+    9  cd C:\Users\vicky\OneDrive\Documents\SMU_Fintech
+   10  cd doc 
+   11  ls
+   12  cd Document
+   13  cd Documents
+   14  cd SMU_FinTech
+   15  ls
+   16  code .
+   17  conda deactivate
+   18  exit
+   19  conda activate dev
+   20  code .
+   21  cd
+   22  cd ../../..
+   23  cd ..
+   24  ls
+   25  cd usr/
+   26  conda deactivate 
+   27  exit
+   28  conda activate dev
+   29  pwd
+   30  ls
+   31  cd FinTech-Workspace
+   32  ls
+   33  cd Module_2
+   34  ls
+   35  cd Class_2_Pre_Read
+   36  ls
+   37  cd 02_Adding_questionary_to_Loan_Qualifier
+   38  pip install fire
+   39  pip install questionary
+   40  python app.py
+   41  ls
+   42  cd 02_Adding_questionary_to_Loan_Qualifier
+   43  ls
+   44  cd solved
+   45  ls
+   46  python app.py
+   47  exit
+   48  C:/Users/vicky/AppData/Local/Microsoft/WindowsApps/python3.7.exe c:/Users/vicky/FinTech-Workspace/Module_2/Module_2_Challenge/Starter_Code/Starter_Code/loan_qualifier_app/app.py
+   49  conda activate dev
+   50  pip install fire
+   51  pip install questionary
+   52  python app.py
+   53  history 50 > terminal_history.txt
